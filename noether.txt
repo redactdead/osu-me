@@ -1,4 +1,5 @@
-[box=][url=https://osu.ppy.sh/users/11106342][img]https://i.imgur.com/paqMZEx.png[/img][/url][url=https://osu.ppy.sh/users/8821541][img]https://i.imgur.com/D3b2zcn.png[/img][/url]
+[box=]
+[url=https://osu.ppy.sh/users/11106342][img]https://i.imgur.com/paqMZEx.png[/img][/url][url=https://osu.ppy.sh/users/8821541][img]https://i.imgur.com/D3b2zcn.png[/img][/url]
 Art by [b][url=https://osu.ppy.sh/users/5226970]Cheri[/url][/b] [img]https://i.imgur.com/MYFow6M.png[/img][/box]
 [box=]
 [img]https://i.imgur.com/ICXczmN.gif[/img]
@@ -20,6 +21,7 @@ Art by [b][url=https://osu.ppy.sh/users/5226970]Cheri[/url][/b] [img]https://i.i
 ​
 [box=]
 random scores (nothing important)
+[img]https://osu.ppy.sh/ss/16953952/f658[/img]
 [img]https://osu.ppy.sh/ss/16939440/cb05[/img]
 [img]https://osu.ppy.sh/ss/16939417/eb5a[/img]
 [img]https://osu.ppy.sh/ss/16939344/50f6[/img]
