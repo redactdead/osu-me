@@ -88,4 +88,4 @@ thank you for being cuties [img]https://static-cdn.jtvnw.net/emoticons/v2/304110
 [url=https://osu.ppy.sh/users/4830261][img]https://a.ppy.sh/4830261[/img][/url]
 [url=https://osu.ppy.sh/users/13796009][img]https://a.ppy.sh/13796009[/img][/url]
 [/box]
-[url=https://github.com/redactdead/osu-me/commits/main][color=#FFFFFF]changelog[/color][/url]
+[b][url=https://github.com/redactdead/osu-me/commits/main][color=#FFFFFF]changelog[/color][/url][/b]
